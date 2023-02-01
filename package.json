@@ -1,0 +1,20 @@
+{
+  "name": "dig4639-davison-ex.3-gitrepo",
+  "version": "1.0.0",
+  "description": "Assignment Submission for  DIG4639 Ex. 3\r \"Fair is when a pig gets a blue ribbon.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cole-davison/dig4639-davison-ex.3-gitrepo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cole-davison/dig4639-davison-ex.3-gitrepo/issues"
+  },
+  "homepage": "https://github.com/cole-davison/dig4639-davison-ex.3-gitrepo#readme"
+}
